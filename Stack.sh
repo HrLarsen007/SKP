@@ -1,6 +1,6 @@
-## opsætning af en webserver på Centos 8.
+## opsætning af en webserver på Rocky 8.
 
-## Opdater CentOS
+## Opdater Rocky
 
 sudo yum -y update && yum -y upgrade
 sudo yum -y clean all
