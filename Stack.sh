@@ -82,9 +82,3 @@ sudo systemctl restart mariadb.service
 ## vi kan teste vore system 
 php -v
 php --version
-
-if `mysql -u root -p`; then
-	echo "DB connection successfull"
-else
-	echo "DB connection failed"
-fi
