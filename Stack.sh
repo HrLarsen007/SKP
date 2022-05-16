@@ -82,3 +82,5 @@ sudo systemctl restart mariadb.service
 ## vi kan teste vore system 
 php -v
 php --version
+
+sudo yum -y update && yum -y upgrade
